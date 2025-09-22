@@ -7,6 +7,7 @@ npm create astro@latest -- --template basics
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKMHS-APP%2Fkmhs.info.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKMHS-APP%2Fkmhs.info?ref=badge_shield)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
@@ -46,3 +47,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKMHS-APP%2Fkmhs.info.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKMHS-APP%2Fkmhs.info?ref=badge_large)
